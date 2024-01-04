@@ -10,7 +10,6 @@
 
 int main()
 {
-  char c;
-  std::cin >> c;
-  std::cout << "the value of'";
+  std::cout << "Here is some text.";
+  return 0;
 }
