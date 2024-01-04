@@ -12,5 +12,5 @@ int main()
 {
   char c;
   std::cin >> c;
-  std::cout << "the value of'"
+  std::cout << "the value of'";
 }
