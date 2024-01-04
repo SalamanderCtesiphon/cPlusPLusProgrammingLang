@@ -26,5 +26,6 @@
     "*.html": "html",
     ".ts": "",
     "iostream": "cpp"
-  }
+  },
+  "cmake.configureOnOpen": true
 }
