@@ -3,7 +3,13 @@ A repository for practicing the C++ programming language
 
 I am working throught the lessons from: https://www.learncpp.com .
 
-                    ![Alt text](ISO_C++_Logo.svg.png)
+
+
+
+![Alt text](ISO_C++_Logo.svg.png)
+
+
+
 
 
 
