@@ -2,9 +2,7 @@
 
 int main()
 {
-  int x;
-
-  std::cout << x << '\n';
+  std::cout << sizeof(int) << '\n'; // print how many bytes of memory an int value takes
 
   return 0;
 }
