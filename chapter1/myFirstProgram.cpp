@@ -2,7 +2,10 @@
 
 int main()
 {
-  std::cout << "Enter and integer: \n";
+  std::cout << "Enter and integer: ";
+
+  int num{}; // define a variable num as an integer variable
+  std::cin >> num;
 
   return 0;
 }
