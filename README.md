@@ -1,4 +1,4 @@
 # cPlusPLusProgrammingLang
-a repository for practicing the c plus plus programming language
+A repository for practicing the C++ programming language
 
-working throught the lessons from: https://www.learncpp.com
+I am working throught the lessons from: https://www.learncpp.com .
