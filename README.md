@@ -3,16 +3,12 @@ A repository for practicing the C++ programming language
 
 I am working throught the lessons from: https://www.learncpp.com .
 
-The C++ Programming Language is a computer programming book first published in October 1985. It was the first book to describe the C++ programming language, written by the language's creator, Bjarne Stroustrup. In the absence of an official standard, the book served for several years as the de facto documentation for the evolving C++ language, until the release of the ISO/IEC 14882:1998: Programming Language C++ standard on 1 September 1998. As the standard further evolved with the standardization of language and library extensions and with the publication of technical corrigenda, later editions of the book were updated to incorporate the new changes.
-
-History
-The first edition of The C++ Programming Language was published in 1985. As C++ evolved, a second edition was published in July 1991, reflecting the changes made.
-
-The third edition of the book was first published on 30 June 1997; a hardcover version of the third edition, with two new appendices, was later published as The C++ Programming Language: Special Edition on 11 February 2000. Both the softcover third edition and the hardcover “special edition” have since undergone several reprintings, with corrections.[2]
-
-C++ Solutions (ISBN 0-201-30965-3) is a companion book to the third edition of The C++ Programming Language. It contains solutions to selected exercises of The C++ Programming Language.
-
-The fourth edition of the book, which incorporates C++11, was released on May 19, 2013.[3]
 
 
-source: https://en.wikipedia.org/wiki/The_C++_Programming_Language
+C++ (/ˈsiː plʌs plʌs/, pronounced "C plus plus" and sometimes abbreviated as CPP) is a high-level, general-purpose programming language created by Danish computer scientist Bjarne Stroustrup. First released in 1985 as an extension of the C programming language, it has since expanded significantly over time; as of 1997 C++ has object-oriented, generic, and functional features, in addition to facilities for low-level memory manipulation. It is almost always implemented as a compiled language, and many vendors provide C++ compilers, including the Free Software Foundation, LLVM, Microsoft, Intel, Embarcadero, Oracle, and IBM.[14]
+
+C++ was designed with systems programming and embedded, resource-constrained software and large systems in mind, with performance, efficiency, and flexibility of use as its design highlights.[15] C++ has also been found useful in many other contexts, with key strengths being software infrastructure and resource-constrained applications,[15] including desktop applications, video games, servers (e.g. e-commerce, web search, or databases), and performance-critical applications (e.g. telephone switches or space probes).[16]
+
+C++ is standardized by the International Organization for Standardization (ISO), with the latest standard version ratified and published by ISO in December 2020 as ISO/IEC 14882:2020 (informally known as C++20).[17] The C++ programming language was initially standardized in 1998 as ISO/IEC 14882:1998, which was then amended by the C++03, C++11, C++14, and C++17 standards. The current C++20 standard supersedes these with new features and an enlarged standard library. Before the initial standardization in 1998, C++ was developed by Stroustrup at Bell Labs since 1979 as an extension of the C language; he wanted an efficient and flexible language similar to C that also provided high-level features for program organization.[18] Since 2012, C++ has been on a three-year release schedule[19] with C++23 as the next planned standard.[20]
+
+Source: https://en.wikipedia.org/wiki/C%2B%2B
