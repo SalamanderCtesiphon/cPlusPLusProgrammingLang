@@ -2,6 +2,7 @@
 
 int main()
 {
-  std::cout << "henlo fren";
+  std::cout << "Enter and integer: \n";
+
   return 0;
 }
