@@ -1,5 +1,6 @@
 #include <iostream>
 
+// nested function calls are not allowed in cpp
 void doB()
 {
   std::cout << "In doB()\n";
