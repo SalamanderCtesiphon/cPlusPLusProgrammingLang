@@ -7,9 +7,9 @@ int main()
   int num{}; // define a variable num as an integer variable
   std::cin >> num;
 
-  num *= 2;
+  std::cout << "Double that number is: " << num * 2 << '\n';
 
-  std::cout << "Double that number is: " << num << '\n';
+  std::cout << "Triple that number is: " << num * 3 << '\n';
 
   return 0;
 }
