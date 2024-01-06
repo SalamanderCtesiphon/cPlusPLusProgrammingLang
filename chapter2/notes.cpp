@@ -1,14 +1,25 @@
 #include <iostream>
 
-void doPrint()
+void doB()
 {
-  std::cout << "In doPrint()\n";
+  std::cout << "In doB()\n";
+}
+
+void doA()
+{
+  std::cout << "Starting doA()\n";
+
+  doB();
+
+  std::cout << "Ending doA()\n";
 }
 
 int main()
 {
   std::cout << "Starting main()\n";
-  doPrint();
+
+  doA();
+
   std::cout << "Ending main()\n";
 
   return 0;
