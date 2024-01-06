@@ -1,22 +1,13 @@
 #include <iostream>
 
-int getValueFromUser()
+int doubleNumber(int value)
 {
-  std::cout << "Enter an integer: ";
-  int input{};
-  std::cin >> input;
-
-  return input;
-}
-
-void printDouble(int value)
-{
-  std::cout << value << " doubled is: " << value * 2 << '\n';
+  return value * 2;
 }
 
 int main()
 {
-  printDouble(getValueFromUser());
+  std::cout << doubleNumber(8) << '\n';
 
   return 0;
 }
